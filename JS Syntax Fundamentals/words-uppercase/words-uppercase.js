@@ -1,3 +1,6 @@
+// TO DO: 66/100
+
+
 function wordsUppercase(inputString) {
     const regex = /[A-Za-z]+/g;
     const wordsArray = inputString.toUpperCase().match(regex);
