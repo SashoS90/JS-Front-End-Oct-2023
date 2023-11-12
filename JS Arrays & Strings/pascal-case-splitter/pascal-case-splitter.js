@@ -13,4 +13,3 @@ function pascalCaseSplitter(text) {
   
   
   pascalCaseSplitter('SplitMeIfYouCanHaHaYouCanOrYouCan')
-  pascalCaseSplitter('AZ')
